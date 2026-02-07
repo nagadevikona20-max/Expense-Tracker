@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "date": "2024-01-15",
+    "category": "food",
+    "amount": 45.5,
+    "description": "Grocery shopping at Whole Foods"
+  },
+  {
+    "id": 2,
+    "date": "2024-01-16",
+    "category": "transport",
+    "amount": 12.0,
+    "description": "Uber to office"
+  },
+  {
+    "id": 3,
+    "date": "2024-01-16",
+    "category": "food",
+    "amount": 18.75,
+    "description": "Lunch at cafe"
+  },
+  {
+    "id": 4,
+    "date": "2024-01-18",
+    "category": "utilities",
+    "amount": 89.99,
+    "description": "Internet bill"
+  },
+  {
+    "id": 5,
+    "date": "2024-01-20",
+    "category": "entertainment",
+    "amount": 25.0,
+    "description": "Movie tickets"
+  },
+  {
+    "id": 6,
+    "date": "2024-01-22",
+    "category": "food",
+    "amount": 67.3,
+    "description": "Dinner with friends"
+  },
+  {
+    "id": 7,
+    "date": "2024-01-25",
+    "category": "transport",
+    "amount": 45.0,
+    "description": "Gas for car"
+  },
+  {
+    "id": 8,
+    "date": "2024-02-01",
+    "category": "utilities",
+    "amount": 120.0,
+    "description": "Electricity bill"
+  },
+  {
+    "id": 9,
+    "date": "2024-02-03",
+    "category": "food",
+    "amount": 52.4,
+    "description": "Weekly groceries"
+  },
+  {
+    "id": 10,
+    "date": "2024-02-05",
+    "category": "entertainment",
+    "amount": 15.99,
+    "description": "Netflix subscription"
+  },
+  {
+    "id": 11,
+    "date": "2024-02-07",
+    "category": "transport",
+    "amount": 8.5,
+    "description": "Bus fare"
+  },
+  {
+    "id": 12,
+    "date": "2024-02-10",
+    "category": "food",
+    "amount": 34.2,
+    "description": "Coffee and breakfast"
+  }
+]
